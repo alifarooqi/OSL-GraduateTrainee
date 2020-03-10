@@ -1,0 +1,17 @@
+{
+    "mbp": {
+        "type": "buyN",
+        "quantity": 1,
+        "freebie": "vga"
+    },
+    "atv": {
+        "type": "buyN",
+        "quantity": 3,
+        "freebie": "atv"
+    },
+    "ipd": {
+        "type": "groupD",
+        "quantity": 5,
+        "discountedPrice": 499.99
+    }
+}
